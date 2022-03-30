@@ -1,0 +1,27 @@
+Нет анализа слова: ва, файл: funny_stories_written\FS_02-f_wr.txt 
+Непонятное слово: несолидно, файл: funny_stories_written\FS_02-f_wr.txt 
+Непонятное слово: Никитос, файл: funny_stories_written\FS_08-f_wr.txt 
+Непонятное слово: смазливчик, файл: funny_stories_written\FS_08-f_wr.txt 
+Непонятное слово: девятикласниц, файл: funny_stories_written\FS_08-f_wr.txt 
+Непонятное слово: Айлочки, файл: funny_stories_written\FS_09-f_wr.txt 
+Непонятное слово: Айлочкиным, файл: funny_stories_written\FS_09-f_wr.txt 
+Нет анализа слова: ва, файл: funny_stories_written\FS_11-m_wr.txt 
+Непонятное слово: нескучно, файл: funny_stories_written\FS_11-m_wr.txt 
+Непонятное слово: хрень, файл: funny_stories_written\FS_11-m_wr.txt 
+Непонятное слово: повыпрыгивали, файл: funny_stories_written\FS_14-f_wr.txt 
+Непонятное слово: Мишганчик, файл: funny_stories_written\FS_20-m_wr.txt 
+Непонятное слово: Гибддшники, файл: funny_stories_written\FS_20-m_wr.txt 
+Непонятное слово: Мишганчик, файл: funny_stories_written\FS_20-m_wr.txt 
+Непонятное слово: ПАЗик, файл: funny_stories_written\FS_21-m_wr.txt 
+Непонятное слово: Финалгон, файл: funny_stories_written\FS_26-m_wr.txt 
+Непонятное слово: напрягов, файл: funny_stories_written\FS_28-f_wr.txt 
+Непонятное слово: непоздравленный, файл: funny_stories_written\FS_29-m_wr.txt 
+Непонятное слово: Мурманрыбпромстроя, файл: funny_stories_written\FS_36-m_wr.txt 
+Непонятное слово: биотуалетом, файл: funny_stories_written\FS_38-m_wr.txt 
+Нет анализа слова: Tetford, файл: funny_stories_written\FS_38-m_wr.txt 
+Непонятное слово: журфаке, файл: funny_stories_written\FS_40-f_wr.txt 
+Нет анализа слова: ва, файл: funny_stories_written\FS_40-f_wr.txt 
+Непонятное слово: Артес, файл: funny_stories_written\FS_40-f_wr.txt 
+Непонятное слово: Дартес, файл: funny_stories_written\FS_40-f_wr.txt 
+Непонятное слово: Дартес, файл: funny_stories_written\FS_40-f_wr.txt 
+Непонятное слово: артес, файл: funny_stories_written\FS_40-f_wr.txt 
