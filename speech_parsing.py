@@ -4,13 +4,15 @@ from tqdm import tqdm
 stories_dir = Path("funny_stories")
 for path in tqdm(sorted(stories_dir.glob("*"))):
     file = open(path, encoding='utf-8')
-    new_path = str(stories_dir) + '\CLEAR_' + str(path)[len(str(stories_dir)) + 1:]
+    new_path = "parsed_" + str(stories_dir) + "\\CLEAR_" + str(path)[len(str(stories_dir)) + 1:]
     new_f = open(new_path, 'w', encoding='utf-8')
 
     tag_signs = ['&lt;', '&gt;']
     inside_tag = False
     one_bytes_signs = ['-', '!', '.', ',', '?', ':']
     two_bytes_signs = ['¡']
+
+    end_quote = False
 
     word = ""
     text = ""
@@ -23,6 +25,14 @@ for path in tqdm(sorted(stories_dir.glob("*"))):
             if ch == " " or ch in one_bytes_signs:
                 if word != "" and not inside_tag:
                     text += word + ch
+                    if end_quote:
+                        text += '\n'
+                        end_quote = False
+                    if ch in ['.', '!', '?']:
+                        if line[i + 1] == "»":
+                            end_quote = True
+                        else:
+                            text += '\n'
                 word = ""
 
             elif ch == "-" and line[i+1].isalpha():
