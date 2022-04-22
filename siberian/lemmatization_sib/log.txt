@@ -1,0 +1,47 @@
+Непонятное слово: Черкосай, файл: parsed_sib\parsed_Sib_01-f.txt 
+Нет анализа слова: всякь, файл: parsed_sib\parsed_Sib_02-f.txt 
+Непонятное слово: впечатлило, файл: parsed_sib\parsed_Sib_02-f.txt 
+Непонятное слово: крокодильчика, файл: parsed_sib\parsed_Sib_02-f.txt 
+Непонятное слово: бильярдистом, файл: parsed_sib\parsed_Sib_03-m.txt 
+Непонятное слово: кайфово, файл: parsed_sib\parsed_Sib_03-m.txt 
+Непонятное слово: охренел, файл: parsed_sib\parsed_Sib_04-m.txt 
+Нет анализа слова: ЛВРЗ, файл: parsed_sib\parsed_Sib_04-m.txt 
+Непонятное слово: Высплюся, файл: parsed_sib\parsed_Sib_05-m.txt 
+Непонятное слово: Гужиные, файл: parsed_sib\parsed_Sib_05-m.txt 
+Непонятное слово: заблудилися, файл: parsed_sib\parsed_Sib_05-m.txt 
+Нет анализа слова: нь, файл: parsed_sib\parsed_Sib_05-m.txt 
+Непонятное слово: едь, файл: parsed_sib\parsed_Sib_05-m.txt 
+Непонятное слово: пофотографироваться, файл: parsed_sib\parsed_Sib_05-m.txt 
+Непонятное слово: костерочек, файл: parsed_sib\parsed_Sib_05-m.txt 
+Непонятное слово: ло́жить, файл: parsed_sib\parsed_Sib_05-m.txt 
+Непонятное слово: Нало, файл: parsed_sib\parsed_Sib_05-m.txt 
+Нет анализа слова: гидрогеологическойǝ, файл: parsed_sib\parsed_Sib_07-f.txt 
+Непонятное слово: заметочка, файл: parsed_sib\parsed_Sib_07-f.txt 
+Непонятное слово: Семипалатинский, файл: parsed_sib\parsed_Sib_07-f.txt 
+Нет анализа слова: сь, файл: parsed_sib\parsed_Sib_09-m.txt 
+Непонятное слово: Толмачёво, файл: parsed_sib\parsed_Sib_09-m.txt 
+Нет анализа слова: са, файл: parsed_sib\parsed_Sib_09-m.txt 
+Нет анализа слова: ǝна, файл: parsed_sib\parsed_Sib_10-m.txt 
+Нет анализа слова: подъе, файл: parsed_sib\parsed_Sib_10-m.txt 
+Нет анализа слова: НРЗБ, файл: parsed_sib\parsed_Sib_10-m.txt 
+Нет анализа слова: ǝподготовили, файл: parsed_sib\parsed_Sib_10-m.txt 
+Непонятное слово: выдергу, файл: parsed_sib\parsed_Sib_10-m.txt 
+Непонятное слово: выдерги, файл: parsed_sib\parsed_Sib_10-m.txt 
+Нет анализа слова: НРЗБ, файл: parsed_sib\parsed_Sib_11-m.txt 
+Непонятное слово: людивместе, файл: parsed_sib\parsed_Sib_11-m.txt 
+Нет анализа слова: мамаǝ, файл: parsed_sib\parsed_Sib_12-f.txt 
+Нет анализа слова: НРЗБ, файл: parsed_sib\parsed_Sib_12-f.txt 
+Нет анализа слова: нь, файл: parsed_sib\parsed_Sib_13-f.txt 
+Непонятное слово: лепё, файл: parsed_sib\parsed_Sib_13-f.txt 
+Нет анализа слова: тоǝ, файл: parsed_sib\parsed_Sib_13-f.txt 
+Непонятное слово: больш, файл: parsed_sib\parsed_Sib_14-f.txt 
+Непонятное слово: Чемал, файл: parsed_sib\parsed_Sib_15-f.txt 
+Непонятное слово: Чемал, файл: parsed_sib\parsed_Sib_15-f.txt 
+Непонятное слово: сле, файл: parsed_sib\parsed_Sib_15-f.txt 
+Непонятное слово: Чемале, файл: parsed_sib\parsed_Sib_15-f.txt 
+Непонятное слово: офица, файл: parsed_sib\parsed_Sib_15-f.txt 
+Непонятное слово: Чемал, файл: parsed_sib\parsed_Sib_15-f.txt 
+Непонятное слово: Барун, файл: parsed_sib\parsed_Sib_16-m.txt 
+Нет анализа слова: нь, файл: parsed_sib\parsed_Sib_16-m.txt 
+Непонятное слово: оттудова, файл: parsed_sib\parsed_Sib_16-m.txt 
+Нет анализа слова: ла, файл: parsed_sib\parsed_Sib_17-m.txt 

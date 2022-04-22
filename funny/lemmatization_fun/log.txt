@@ -1,0 +1,128 @@
+Непонятное слово: поуговаривала, файл: parsed_fun\parsed_FS_01-f.txt 
+Непонятное слово: поуговаривала, файл: parsed_fun\parsed_FS_01-f.txt 
+Непонятное слово: вре, файл: parsed_fun\parsed_FS_02-f.txt 
+Непонятное слово: бырику, файл: parsed_fun\parsed_FS_02-f.txt 
+Непонятное слово: однос, файл: parsed_fun\parsed_FS_02-f.txt 
+Нет анализа слова: нь, файл: parsed_fun\parsed_FS_03-m.txt 
+Непонятное слово: кактусик, файл: parsed_fun\parsed_FS_04-f.txt 
+Непонятное слово: кактусики, файл: parsed_fun\parsed_FS_04-f.txt 
+Непонятное слово: пляйн, файл: parsed_fun\parsed_FS_04-f.txt 
+Непонятное слово: Бла, файл: parsed_fun\parsed_FS_04-f.txt 
+Непонятное слово: бла, файл: parsed_fun\parsed_FS_04-f.txt 
+Непонятное слово: бла, файл: parsed_fun\parsed_FS_04-f.txt 
+Непонятное слово: авиакассам, файл: parsed_fun\parsed_FS_05-m.txt 
+Непонятное слово: пыры, файл: parsed_fun\parsed_FS_05-m.txt 
+Непонятное слово: посто, файл: parsed_fun\parsed_FS_08-f.txt 
+Непонятное слово: подка, файл: parsed_fun\parsed_FS_08-f.txt 
+Непонятное слово: Айлыча, файл: parsed_fun\parsed_FS_09-f.txt 
+Непонятное слово: кавээнщиц, файл: parsed_fun\parsed_FS_09-f.txt 
+Непонятное слово: Айлочкиным, файл: parsed_fun\parsed_FS_09-f.txt 
+Нет анализа слова: Ва, файл: parsed_fun\parsed_FS_09-f.txt 
+Нет анализа слова: ва, файл: parsed_fun\parsed_FS_09-f.txt 
+Непонятное слово: Айлыч, файл: parsed_fun\parsed_FS_09-f.txt 
+Нет анализа слова: взжжжиитщщ, файл: parsed_fun\parsed_FS_09-f.txt 
+Нет анализа слова: Бээ, файл: parsed_fun\parsed_FS_09-f.txt 
+Нет анализа слова: тыхх, файл: parsed_fun\parsed_FS_09-f.txt 
+Нет анализа слова: пщщщ, файл: parsed_fun\parsed_FS_09-f.txt 
+Непонятное слово: джжжи, файл: parsed_fun\parsed_FS_09-f.txt 
+Непонятное слово: Опа, файл: parsed_fun\parsed_FS_10-m.txt 
+Непонятное слово: потусоваться, файл: parsed_fun\parsed_FS_11-m.txt 
+Непонятное слово: окей, файл: parsed_fun\parsed_FS_11-m.txt 
+Непонятное слово: чувак, файл: parsed_fun\parsed_FS_11-m.txt 
+Нет анализа слова: чт, файл: parsed_fun\parsed_FS_11-m.txt 
+Непонятное слово: окей, файл: parsed_fun\parsed_FS_11-m.txt 
+Непонятное слово: Окей, файл: parsed_fun\parsed_FS_11-m.txt 
+Непонятное слово: забык, файл: parsed_fun\parsed_FS_14-f.txt 
+Непонятное слово: турагенствами, файл: parsed_fun\parsed_FS_14-f.txt 
+Непонятное слово: мнев, файл: parsed_fun\parsed_FS_14-f.txt 
+Нет анализа слова: Нь, файл: parsed_fun\parsed_FS_14-f.txt 
+Нет анализа слова: ээ, файл: parsed_fun\parsed_FS_15-m.txt 
+Непонятное слово: мюкзи, файл: parsed_fun\parsed_FS_16-f.txt 
+Непонятное слово: Чав, файл: parsed_fun\parsed_FS_16-f.txt 
+Непонятное слово: чав, файл: parsed_fun\parsed_FS_16-f.txt 
+Непонятное слово: чав, файл: parsed_fun\parsed_FS_16-f.txt 
+Непонятное слово: просма, файл: parsed_fun\parsed_FS_16-f.txt 
+Непонятное слово: общажной, файл: parsed_fun\parsed_FS_18-f.txt 
+Нет анализа слова: ээ, файл: parsed_fun\parsed_FS_18-f.txt 
+Непонятное слово: эразмусовско, файл: parsed_fun\parsed_FS_18-f.txt 
+Непонятное слово: Халензее, файл: parsed_fun\parsed_FS_18-f.txt 
+Нет анализа слова: нь, файл: parsed_fun\parsed_FS_18-f.txt 
+Нет анализа слова: нь, файл: parsed_fun\parsed_FS_18-f.txt 
+Нет анализа слова: нь, файл: parsed_fun\parsed_FS_18-f.txt 
+Нет анализа слова: сль, файл: parsed_fun\parsed_FS_18-f.txt 
+Нет анализа слова: ве, файл: parsed_fun\parsed_FS_18-f.txt 
+Непонятное слово: поэ, файл: parsed_fun\parsed_FS_18-f.txt 
+Нет анализа слова: ээ, файл: parsed_fun\parsed_FS_18-f.txt 
+Нет анализа слова: ээ, файл: parsed_fun\parsed_FS_18-f.txt 
+Нет анализа слова: пф, файл: parsed_fun\parsed_FS_18-f.txt 
+Нет анализа слова: пф, файл: parsed_fun\parsed_FS_18-f.txt 
+Непонятное слово: муттер, файл: parsed_fun\parsed_FS_18-f.txt 
+Непонятное слово: вмесело, файл: parsed_fun\parsed_FS_19-f.txt 
+Нет анализа слова: ээ, файл: parsed_fun\parsed_FS_19-f.txt 
+Непонятное слово: фрик, файл: parsed_fun\parsed_FS_19-f.txt 
+Непонятное слово: Мишганчик, файл: parsed_fun\parsed_FS_20-m.txt 
+Непонятное слово: маршруточку, файл: parsed_fun\parsed_FS_20-m.txt 
+Непонятное слово: гибддэшник, файл: parsed_fun\parsed_FS_20-m.txt 
+Непонятное слово: нутрь, файл: parsed_fun\parsed_FS_20-m.txt 
+Непонятное слово: Мишганчик, файл: parsed_fun\parsed_FS_20-m.txt 
+Непонятное слово: ментовке, файл: parsed_fun\parsed_FS_20-m.txt 
+Непонятное слово: тарый, файл: parsed_fun\parsed_FS_21-m.txt 
+Непонятное слово: ПАЗик, файл: parsed_fun\parsed_FS_21-m.txt 
+Непонятное слово: возьм, файл: parsed_fun\parsed_FS_22-f.txt 
+Непонятное слово: Танцуть, файл: parsed_fun\parsed_FS_22-f.txt 
+Непонятное слово: Танцуть, файл: parsed_fun\parsed_FS_22-f.txt 
+Непонятное слово: волоч, файл: parsed_fun\parsed_FS_22-f.txt 
+Непонятное слово: Танцуть, файл: parsed_fun\parsed_FS_22-f.txt 
+Непонятное слово: ервис, файл: parsed_fun\parsed_FS_23-f.txt 
+Непонятное слово: быто, файл: parsed_fun\parsed_FS_23-f.txt 
+Непонятное слово: полуподвальчики, файл: parsed_fun\parsed_FS_23-f.txt 
+Непонятное слово: полуподвальчике, файл: parsed_fun\parsed_FS_23-f.txt 
+Непонятное слово: вау, файл: parsed_fun\parsed_FS_23-f.txt 
+Нет анализа слова: пе, файл: parsed_fun\parsed_FS_23-f.txt 
+Непонятное слово: гадственного, файл: parsed_fun\parsed_FS_23-f.txt 
+Непонятное слово: хара́ктерних, файл: parsed_fun\parsed_FS_23-f.txt 
+Непонятное слово: пжжу, файл: parsed_fun\parsed_FS_24-f.txt 
+Нет анализа слова: эээ, файл: parsed_fun\parsed_FS_26-m.txt 
+Непонятное слово: Финалгон, файл: parsed_fun\parsed_FS_26-m.txt 
+Непонятное слово: держалочка, файл: parsed_fun\parsed_FS_26-m.txt 
+Непонятное слово: мешная, файл: parsed_fun\parsed_FS_29-m.txt 
+Непонятное слово: кор, файл: parsed_fun\parsed_FS_29-m.txt 
+Непонятное слово: коробоч, файл: parsed_fun\parsed_FS_29-m.txt 
+Непонятное слово: колоночками, файл: parsed_fun\parsed_FS_29-m.txt 
+Непонятное слово: постновогоднюю, файл: parsed_fun\parsed_FS_29-m.txt 
+Непонятное слово: колоночки, файл: parsed_fun\parsed_FS_29-m.txt 
+Нет анализа слова: ээ, файл: parsed_fun\parsed_FS_30-m.txt 
+Непонятное слово: маленькималеньким, файл: parsed_fun\parsed_FS_30-m.txt 
+Непонятное слово: чаепи, файл: parsed_fun\parsed_FS_30-m.txt 
+Нет анализа слова: тр, файл: parsed_fun\parsed_FS_30-m.txt 
+Нет анализа слова: эээ, файл: parsed_fun\parsed_FS_35-m.txt 
+Нет анализа слова: НРЗБ, файл: parsed_fun\parsed_FS_35-m.txt 
+Нет анализа слова: эээ, файл: parsed_fun\parsed_FS_35-m.txt 
+Нет анализа слова: НРЗБ, файл: parsed_fun\parsed_FS_35-m.txt 
+Нет анализа слова: сь, файл: parsed_fun\parsed_FS_35-m.txt 
+Нет анализа слова: эээ, файл: parsed_fun\parsed_FS_35-m.txt 
+Непонятное слово: Мурманрыбпромстроя, файл: parsed_fun\parsed_FS_36-m.txt 
+Непонятное слово: усл, файл: parsed_fun\parsed_FS_36-m.txt 
+Нет анализа слова: жь, файл: parsed_fun\parsed_FS_36-m.txt 
+Непонятное слово: полста, файл: parsed_fun\parsed_FS_36-m.txt 
+Непонятное слово: Майсурадзе, файл: parsed_fun\parsed_FS_36-m.txt 
+Непонятное слово: Онь, файл: parsed_fun\parsed_FS_36-m.txt 
+Непонятное слово: Майсурадзе, файл: parsed_fun\parsed_FS_36-m.txt 
+Нет анализа слова: ГЗ, файл: parsed_fun\parsed_FS_37-f.txt 
+Непонятное слово: биотуалетом, файл: parsed_fun\parsed_FS_38-m.txt 
+Непонятное слово: Тэтфорд, файл: parsed_fun\parsed_FS_38-m.txt 
+Непонятное слово: биотуалет, файл: parsed_fun\parsed_FS_38-m.txt 
+Нет анализа слова: ээ, файл: parsed_fun\parsed_FS_38-m.txt 
+Непонятное слово: насосик, файл: parsed_fun\parsed_FS_38-m.txt 
+Непонятное слово: насосик, файл: parsed_fun\parsed_FS_38-m.txt 
+Непонятное слово: Тэтфорда, файл: parsed_fun\parsed_FS_38-m.txt 
+Непонятное слово: биотуалеты, файл: parsed_fun\parsed_FS_38-m.txt 
+Непонятное слово: раздумый, файл: parsed_fun\parsed_FS_38-m.txt 
+Непонятное слово: журфаке, файл: parsed_fun\parsed_FS_40-f.txt 
+Непонятное слово: Коая, файл: parsed_fun\parsed_FS_40-f.txt 
+Непонятное слово: Артес, файл: parsed_fun\parsed_FS_40-f.txt 
+Нет анализа слова: зн, файл: parsed_fun\parsed_FS_40-f.txt 
+Непонятное слово: дАртес, файл: parsed_fun\parsed_FS_40-f.txt 
+Непонятное слово: айдес, файл: parsed_fun\parsed_FS_40-f.txt 
+Непонятное слово: дАртес, файл: parsed_fun\parsed_FS_40-f.txt 
+Непонятное слово: Артес, файл: parsed_fun\parsed_FS_40-f.txt 
